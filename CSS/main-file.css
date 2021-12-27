@@ -60,7 +60,7 @@ body {
 /* start section one */
 
 .section-one {
-  padding-left: var(--section-padding-top);
+  padding-top: var(--section-padding-top);
   padding-bottom: var(--section-padding-bottom);
   background-image: url(../Images/bg-header-desktop.png);
   background-size: cover;
